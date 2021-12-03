@@ -65,7 +65,7 @@ CR2() {
     ql repo https://github.com/JDHelloWorld/jd_scripts.git "jd_|jx_|getJDCookie" "backUp" "^jd[^_]|USER|utils|sendNotify|^TS|JD_"
 }
 CR3() {
-    ql repo https://github.com/he1pu/JDHelp.git "jd_|jx_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|utils|sendNotify|ZooFaker|JDJRValidator_|^sign"
+    ql repo https://github.com/he1pu/JDHelp.git "jd_|jx_|getJDCookie" "activity|backUp|jd_delCoupon" "^jd[^_]|USER|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate"
 }
 CR4() {
     ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|sendNotify|function|utils|JDJRValidator_|ZooFaker|^sign"
